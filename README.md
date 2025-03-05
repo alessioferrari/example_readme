@@ -151,6 +151,8 @@ Here are some commonly used emoticons and their meanings:
 - 🐛 **Bug**: Issues or bug reports.
 - ❤️ **Heart**: Love or passion for the project.
 
+Check Emojis: [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 ---
 
 ### **Tips for Writing a Great README**
